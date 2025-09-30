@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\bin\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.exe
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\bin\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\bin\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\bin\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.dll
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\bin\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.pdb
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.dll
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\refint\Generics1ReusoTypeSafetyPerformance.dll
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.pdb
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\Generics1ReusoTypeSafetyPerformance.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Generics1ReusoTypeSafetyPerformance\obj\Debug\net8.0\ref\Generics1ReusoTypeSafetyPerformance.dll
